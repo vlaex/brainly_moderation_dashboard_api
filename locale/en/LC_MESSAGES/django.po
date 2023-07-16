@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-07 13:44+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\dashboard_api\config\privileges.py:18
+msgid "Can view all market moderators"
+msgstr ""
+
+#: .\dashboard_api\config\privileges.py:19
+msgid "Can view user groups by rank"
+msgstr ""
+
+#: .\dashboard_api\config\privileges.py:20
+msgid "Can invite users"
+msgstr ""
+
+#: .\dashboard_api\config\privileges.py:21
+msgid "Can view invites sent by other users"
+msgstr ""
+
+#: .\dashboard_api\config\privileges.py:22
+msgid "Can manage privileges of other moderators"
+msgstr ""
+
+#: .\dashboard_api\config\privileges.py:23
+msgid "Can view privileges of moderators"
+msgstr ""
+
+#: .\dashboard_api\config\privileges.py:24
+msgid "Has all privileges"
+msgstr ""
+
+#: .\dashboard_api\config\privileges.py:25
+msgid "Can thank users"
+msgstr ""
+
+#: .\dashboard_api\config\privileges.py:26
+msgid "Can add users to one's mentees"
+msgstr ""
+
+#: .\dashboard_api\config\privileges.py:27
+msgid "Can view other mentors' mentees"
+msgstr ""
+
+#: .\dashboard_api\settings.py:130
+msgid "English"
+msgstr "English"
+
+#: .\dashboard_api\settings.py:131
+msgid "Russian"
+msgstr "Russian"
+
+#: .\dashboard_api\settings.py:132
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+#: .\moderators\models.py:20
+msgid "Invalid nick"
+msgstr ""
+
+#: .\moderators\models.py:38
+msgid "Date of birth cannot be in the future"
+msgstr ""
+
+#: .\moderators\models.py:50
+msgid "Last active date cannot be in the future"
+msgstr ""

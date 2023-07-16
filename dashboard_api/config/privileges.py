@@ -1,0 +1,14 @@
+from enum import Enum
+
+
+class Privilege(Enum):
+    CAN_VIEW_USERS = 1
+    CAN_VIEW_USER_GROUPS = 2
+    CAN_INVITE_USERS = 3
+    CAN_VIEW_INVITES = 4
+    CAN_MANAGE_PRIVILEGES = 5
+    CAN_VIEW_PRIVILEGES = 6
+    IS_ADMIN = 7
+    CAN_THANK_USERS = 8
+    CAN_ADD_TO_MENTEES = 9
+    CAN_VIEW_OTHER_MENTEES = 10
